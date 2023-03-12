@@ -1,0 +1,12 @@
+Set Notation - mathematical notation that describes a collection of objects/elements, denoted by braces {}
+Mapping Diagram - graphical representation of a function, shows how each component of the domain is mapped onto the range.
+Relations - Set of ordered pairs that represent a relationship between two sets. Ex. Independent and dependent variables
+Dimensionality Reduction - Process of limiting the number of variables in a dataset while still maintaining as much information as possible for easier analysis.
+Discrete Variable - Variable that takes on a finite number or value (ex. number of people in a room)
+Continuous Variable - Variable that can take on an infinite number of values in a certain range (ex. weight)
+Deterministic Model - mathematical model based on a set of fixed and known parameters. It is used to predict outcomes by producing a single output based on a given set of inputs.
+Function - Mathematical relationship between two sets and assigns a single output value to each input value
+Well-behaved function - a function that is defined everywhere. It is single valued, continuous, and all derivatives are defined and continuous.
+Stochastic Modeling - modeling random/probablistic events using statistical methods. Can be used to predict probability of certain outcomes.
+Linear Regression - statistical method for modeling the relationship between a dependent variable and one or more independent variables assuming a linear relationship between them.
+Non-linear Regression - statistical method for modeling the relationship between a dependent variable and one or more independent variables assuming a non-linear relationship between them. Used when linear model does not fit the data well.
